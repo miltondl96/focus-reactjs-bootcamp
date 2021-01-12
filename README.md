@@ -5,7 +5,7 @@
 
 # ENLACE
 
-[ENLACE](https://affectionate-bell-0eaf5f.netlify.app/login)
+[ENLACE](https://affectionate-bell-0eaf5f.netlify.app)
 
 # ROLES
 ### - Puede ingresar utilizando cuenta de Google, Facebook o Twitter.
